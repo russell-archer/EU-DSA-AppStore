@@ -39,7 +39,7 @@ If you don’t want to use your home address (I certainly don’t!) it’s easy 
 
 ### What you’ll need to complete the form
 
-1. A contact **name** (doesn’t have to be the same as your App Store Connect account holder’s name)
+1. A contact **name** 
 2. A contact **email** address
 3. A contact **phone** number
 4. A contact **address** or **PO Box**
@@ -48,8 +48,13 @@ If you don’t want to use your home address (I certainly don’t!) it’s easy 
 ### Steps required by an individual
 
 Let’s assume you are an indie developer working from your home address. We’ll also assume you don’t want your home address, private phone number and email address displayed on the App Store!
-The first hurdle that you’ll encounter when starting to provide DSA compliance information is the following trader/non-trader question.:
+
+The first hurdle that you’ll encounter when starting to provide DSA compliance information is the following trader/non-trader question:
+
+![](resources/dsa4.png)
+
 Without recourse to a lawyer, it would seem that if you make any kind of money from your apps you **are** a trader. Even if your apps are free it might be safest to assume you are a trader. 
+
 If you decide you’re NOT a trader, select the non-trader account option and confirm it. That’s the end of the process.
 However, if you select the trader account option you’ll be asked to validate your contact information.
 
@@ -133,4 +138,5 @@ You should now receive a confirmation email from Apple:
 ### Next Steps
 
 Now we to wait for Apple to review the provided documents! 
+
 My current status is: **waiting!**
