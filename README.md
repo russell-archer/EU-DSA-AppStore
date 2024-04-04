@@ -1,6 +1,6 @@
 # Additional App Store Compliance Info for the EU Digital Services Act
 
-Updated: March 19, 2024 5:40 PM
+Updated: April 4, 2024 5:40 PM
 
 Starting March, 2024 App Store developers who sell their apps either via Apple’s App Store or third-party app stores in the EU must provide 
 additional information that will be displayed to customers.
