@@ -58,6 +58,17 @@ Without recourse to a lawyer, it would seem that if you make any kind of money f
 If you decide you’re NOT a trader, select the non-trader account option and confirm it. That’s the end of the process.
 However, if you select the trader account option you’ll be asked to validate your contact information.
 
+### Before you start the process
+Apple will ask you to upload copies of documentation to prove the trader name and address is (or is associated with) your developer account name and address.
+You should prepare the necessary documentation before you start the Apple verification process.
+
+The documentation I provided was:
+
+- A driving license
+- A business letter addressed to me
+- My P.O. box address (I used [ukpostbox.com](https://www.ukpostbox.com/))
+- A receipt for the purchase my P.O. box that showed my real address and the P.O. box address
+
 ### Start the process
 
 Click the **Complete Compliance Requirements** link on the App Store Connect alert, alternatively select the **Business >** **ITC.apps.Navigation.Business** link:
@@ -137,6 +148,8 @@ You should now receive a confirmation email from Apple:
 
 ### Next Steps
 
-Now we to wait for Apple to review the provided documents! 
+Now you wait for Apple to review the provided documents! I waited about a week for this process to be completed.
 
-My current status is: **waiting!**
+Once Apple have reviewed and verified your documentation you should receive the following email:
+
+![](resources/dsa14.png)
